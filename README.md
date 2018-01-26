@@ -1,0 +1,1 @@
+# partialModal.js
